@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/Codeforces-rusted__sword-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/black-dawg/" target="_blank">
+  <a href="https://leetcode.com/u/Balck-dawg/">
     <img src="https://img.shields.io/badge/LeetCode-black--dawg-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
